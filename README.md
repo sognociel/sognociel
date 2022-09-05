@@ -6,9 +6,9 @@
 
 <h4 align="center">:cherry_blossom: BOMI :cherry_blossom:</h4>
 <p align="center">
-<a href="mailto:sognociel@gmail.com" target='_blank'><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link"/></a> &nbsp
-<a href="https://sogno-study.tistory.com/" target='_blank'><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white&link"/></a> &nbsp
-<a href="https://www.instagram.com/sognoaurore/" target='_blank'><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link"/></a> &nbsp
+<a href="mailto:sognociel@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link"/></a> &nbsp
+<a href="https://sogno-study.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white&link"/></a> &nbsp
+<a href="https://www.instagram.com/sognoaurore/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link"/></a> &nbsp
 </p>
 <h4 align="center">:books: Studying :books:</h4>
 <p align="center">
