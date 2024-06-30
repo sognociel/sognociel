@@ -3,8 +3,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=BOMI&fontSize=70&fontAlign=80&fontColor=ffffff&animation=fadeIn" />
 
 <h3 align="center"><b>👋안녕하세요!</b></h3>
-<h5 align="center">프론트엔드와 백엔드에 관심 있는 신입 개발자입니다:two_hearts:<br>
-개발자로 일하기 위해 열심히 공부 중입니다:black_nib:</h5>
+<h5 align="center">프론트엔드와 백엔드에 관심 있는 신입 개발자입니다 :two_hearts:<br>
+개발자로 일하기 위해 열심히 공부 중입니다 :black_nib:</h5>
 
 <h4 align="center">:cherry_blossom: BOMI :cherry_blossom:</h4>
 <p align="center">
